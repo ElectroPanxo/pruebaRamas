@@ -8,6 +8,8 @@ public class DemoApplication {
 		System.out.println("Rama Master");
 		System.out.println("Nuevo mensaje de master");
 		System.out.println("Esto es un mensaje de la rama Master");
+		System.out.println("Rama Cliente");
+		System.out.println("Esto es un mensaje de la rama Cliente");
 	}
 
 }
